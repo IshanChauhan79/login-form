@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/login-form/static/css/main.43f826fc.chunk.css",
+    "main.js": "/login-form/static/js/main.6d66b500.chunk.js",
+    "main.js.map": "/login-form/static/js/main.6d66b500.chunk.js.map",
+    "runtime-main.js": "/login-form/static/js/runtime-main.296d8ad7.js",
+    "runtime-main.js.map": "/login-form/static/js/runtime-main.296d8ad7.js.map",
+    "static/js/2.99be7a62.chunk.js": "/login-form/static/js/2.99be7a62.chunk.js",
+    "static/js/2.99be7a62.chunk.js.map": "/login-form/static/js/2.99be7a62.chunk.js.map",
+    "index.html": "/login-form/index.html",
+    "static/css/main.43f826fc.chunk.css.map": "/login-form/static/css/main.43f826fc.chunk.css.map",
+    "static/js/2.99be7a62.chunk.js.LICENSE.txt": "/login-form/static/js/2.99be7a62.chunk.js.LICENSE.txt",
+    "static/media/ocean.8f46778a.jpg": "/login-form/static/media/ocean.8f46778a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296d8ad7.js",
+    "static/js/2.99be7a62.chunk.js",
+    "static/css/main.43f826fc.chunk.css",
+    "static/js/main.6d66b500.chunk.js"
+  ]
+}
